@@ -22,7 +22,7 @@
   - "0FE0C334"
 # GG code: 703A-DDEA
 - Name: "Auto Rapid Fire For Cyclops"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0C0212"
 # GG code: N/A (WRAM cheat)
@@ -30,7 +30,7 @@
 # on. Eyeblasts will come out of your
 # fists.
 - Name: "Auto Rapid Fire For Cyclops [Crouching]"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0C0214"
 # GG code: N/A (WRAM cheat)
@@ -129,12 +129,12 @@
   - "7E0C35FF"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "C00F99EE"
 # GG code: 33DB-E407
 - Name: "Infinite Life"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E008B41"
 # GG code: N/A (WRAM cheat)

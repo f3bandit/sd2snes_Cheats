@@ -40,7 +40,7 @@
   - "06C15103"
 # GG code: D7A9-0D96
 - Name: "Hit/Collect Anywhere"
-  Enabled: true
+  Enabled: false
   Code:
   - "06C3D624"
 # GG code: 40A2-AFB6
@@ -53,7 +53,7 @@
 # You will also be invincible. Certain power-ups
 # make this continually hit anywhere.
 - Name: "Infinite  Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E031C09"
 # GG code: N/A (WRAM cheat)

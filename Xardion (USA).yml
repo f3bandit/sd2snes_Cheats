@@ -17,17 +17,17 @@
   - "04D9762C"
 # GG code: 4A25-0FB4
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0D1A40"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincible"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0D46C8"
 # GG code: N/A (WRAM cheat)
 - Name: "Jump in Midair"
-  Enabled: true
+  Enabled: false
   Code:
   - "009EB680"
 # GG code: 6DB8-6F67

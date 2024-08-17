@@ -1415,19 +1415,19 @@
   - "83990D06"
 # GG code: D1BD-1703
 - Name: "Untouchable"
-  Enabled: true
+  Enabled: false
   Code:
   - "80F9CDA5"
 # GG code: C9EA-1704
   - "80D02385"
 # GG code: 6924-4DAD
 - Name: "Victims Are Invincible"
-  Enabled: true
+  Enabled: false
   Code:
   - "83A3AC6B"
 # GG code: 18CC-37DA
 - Name: "Walk Through Walls"
-  Enabled: true
+  Enabled: false
   Code:
   - "80E4CC80"
 # GG code: 6D3A-47DF
