@@ -22,7 +22,7 @@
   - "00B5D280"
 # GG code: 6D82-0D6F
 - Name: "Enable Arcade Option"
-  Enabled: true
+  Enabled: false
   Code:
   - "00B41B03"
 # GG code: D78F-D4AF
@@ -83,9 +83,6 @@
   Code:
   - "7E03C60A"
 # GG code: N/A (WRAM cheat)
-- Name: "GG invincibility"
-  Enabled: false
-  Code:
 - Name: "Hit Anywhere Both Players"
   Enabled: false
   Code:
@@ -386,12 +383,12 @@
   - "7E00B205"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Mega Crush"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E00B007"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Score To 99 Million [Player 1]"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1F4799"
 # GG code: N/A (WRAM cheat)

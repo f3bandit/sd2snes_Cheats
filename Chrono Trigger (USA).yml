@@ -4669,7 +4669,7 @@
 # getting hit, for both monsters and your
 # party.  Regular Attacks only.
 - Name: "Infinite 255 Silver Points"
-  Enabled: true
+  Enabled: false
   Code:
   - "7F0052FF"
 # GG code: N/A (WRAM cheat)
@@ -8788,7 +8788,7 @@
   - "C22D2822"
 # GG code: 4444-54D8
 - Name: "You Are Invincible And If A Monster Hits You They All Die!"
-  Enabled: true
+  Enabled: false
   Code:
   - "C1ECBE62"
 # GG code: 1438-7765

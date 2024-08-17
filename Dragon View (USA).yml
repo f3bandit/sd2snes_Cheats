@@ -22,7 +22,7 @@
 # Jade, then collect some, you&#039;ll max out
 # at 9999 again
 - Name: "Can't Be Hit"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E6FD333"
 # GG code: N/A (WRAM cheat)
@@ -199,14 +199,14 @@
   - "92E329AF"
 # GG code: CE34-3106
 - Name: "Infinite Keys"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E212201"
 # GG code: N/A (WRAM cheat)
   - "7E212309"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Magic For Rings"
-  Enabled: true
+  Enabled: false
   Code:
   - "9AE039AD"
 # GG code: C237-4116

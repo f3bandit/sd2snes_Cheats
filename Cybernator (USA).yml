@@ -24,22 +24,22 @@
 # GG code: DD6B-4FDB
 # Turn off for bosses.
 - Name: "Infinite Continues"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E01FA09"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite credits"
-  Enabled: true
+  Enabled: false
   Code:
   - "80E024AD"
 # GG code: C234-4FDD
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E14CA20"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Laser Power"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E005E28"
 # GG code: N/A (WRAM cheat)
@@ -74,7 +74,7 @@
   - "7E005C64"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "8293D780"
 # GG code: 6DB2-3FA6
@@ -104,14 +104,14 @@
   - "7E01F699"
 # GG code: N/A (WRAM cheat)
 - Name: "Max. Laser Level"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E006809"
 # GG code: N/A (WRAM cheat)
 # This is for the numbers the the
 # Right of the Weapon Name.
 - Name: "Max. Laser Power"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E007209"
 # GG code: N/A (WRAM cheat)

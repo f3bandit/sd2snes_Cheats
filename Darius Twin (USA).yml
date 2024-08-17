@@ -64,7 +64,7 @@
   - "7E188BFF"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E177900"
 # GG code: N/A (WRAM cheat)
@@ -84,7 +84,7 @@
   - "7E10689A"
 # GG code: N/A (WRAM cheat)
 - Name: "Player 1 has infinite lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "01EE7700"
 # GG code: DD35-6FA5
@@ -222,22 +222,22 @@
   - "7E106799"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Max. 1st Gun (Player 1)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E17A408"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Max. 1st Gun (Player 2)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E183508"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Max. 2nd Gun (Player 1)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E17EB08"
 # GG code: N/A (WRAM cheat)
 - Name: "Set Max. 2nd Gun (Player 2)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E177C08"
 # GG code: N/A (WRAM cheat)
@@ -390,7 +390,7 @@
   - "7E1067FF"
 # GG code: N/A (WRAM cheat)
 - Name: "Start With Strongest Main Weapon Both Players"
-  Enabled: true
+  Enabled: false
   Code:
   - "00AEE1A9"
 # GG code: CBC3-6D07

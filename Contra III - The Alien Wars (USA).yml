@@ -7,7 +7,7 @@
   - "7E0B4600"
 # GG code: N/A (WRAM cheat)
 - Name: "Access Stage Select Screen"
-  Enabled: true
+  Enabled: false
   Code:
   - "00A6BB07"
 # GG code: D5C8-64AF
@@ -54,7 +54,7 @@
 # Press right to access these options. Selecting
 # 99 gives you 35081 lives
 - Name: "Cheat Enable"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1C0403"
 # GG code: N/A (WRAM cheat)
@@ -100,7 +100,7 @@
 # 03 - 30 Lives 04 - 99
 # Lives
 - Name: "Enemies Die When You Get Close To Them"
-  Enabled: true
+  Enabled: false
   Code:
   - "00EA4F00"
 # GG code: DD30-67A4
@@ -199,7 +199,7 @@
 # GG code: N/A (WRAM cheat)
 # Turn the codes off on bonus stages.
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1F8A05"
 # GG code: N/A (WRAM cheat)
@@ -245,7 +245,7 @@
   - "028E65B5"
 # GG code: 8961-6F08
 - Name: "Jump In Midair"
-  Enabled: true
+  Enabled: false
   Code:
   - "00CE6200"
 # GG code: DDA1-6D67
@@ -274,12 +274,12 @@
   - "00A6DBAD"
 # GG code: C2C2-64AF
 - Name: "Keep Main Weapon When You Die (Side-View Levels)"
-  Enabled: true
+  Enabled: false
   Code:
   - "019AC7BD"
 # GG code: 82BA-6FA1
 - Name: "Keep Main Weapon When You Die (Top-View Levels)"
-  Enabled: true
+  Enabled: false
   Code:
   - "0296AABD"
 # GG code: 82BC-646B
@@ -505,7 +505,7 @@
   - "00B1E1EE"
 # GG code: 3383-0D0D
 - Name: "Untouchable (Aerial-View Stages)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0ED700"
 # GG code: N/A (WRAM cheat)
@@ -513,7 +513,7 @@
 # the screen or coming in contact with
 # some of the bosses.
 - Name: "Untouchable (Horizontal Stages)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E021603"
 # GG code: N/A (WRAM cheat)
@@ -521,12 +521,12 @@
 # the screen or coming in contact with
 # some of the bosses.
 - Name: "Untouchable By Enemies Or Weapons"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E022420"
 # GG code: N/A (WRAM cheat)
 - Name: "Walk Through Walls + Walk Over Pits On Top View Levels"
-  Enabled: true
+  Enabled: false
   Code:
   - "02C71800"
 # GG code: DDAF-A4DB

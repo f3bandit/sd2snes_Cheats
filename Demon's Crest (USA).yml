@@ -42,7 +42,7 @@
   - "7E10145C"
 # GG code: N/A (WRAM cheat)
 - Name: "Disable Anti-Cheat"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0EEE00"
 # GG code: N/A (WRAM cheat)
@@ -164,21 +164,21 @@
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Infinite ELIXER Potions"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1E3914"
 # GG code: N/A (WRAM cheat)
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Infinite GINSENG Potions"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1E360E"
 # GG code: N/A (WRAM cheat)
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "80E599A5"
 # GG code: C93B-140F
@@ -218,21 +218,21 @@
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Infinite Money (Gp)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E10630F"
 # GG code: N/A (WRAM cheat)
   - "7E106427"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite SHADOW Spells"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1E340A"
 # GG code: N/A (WRAM cheat)
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Infinite SHOCK Spells"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1E3206"
 # GG code: N/A (WRAM cheat)
@@ -246,7 +246,7 @@
 # This can be safely enabled after ANTI-Cheat
 # codes are in effect.
 - Name: "Invincible"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E103C30"
 # GG code: N/A (WRAM cheat)
@@ -265,7 +265,7 @@
   - "80EF3CA5"
 # GG code: C937-37D7
 - Name: "Jump in Midair"
-  Enabled: true
+  Enabled: false
   Code:
   - "80E1C423"
 # GG code: 473A-1FDD
@@ -287,7 +287,7 @@
   - "80E5C3FF"
 # GG code: EE3A-1DAF
 - Name: "Rapid Fire"
-  Enabled: true
+  Enabled: false
   Code:
   - "80EF5CA5"
 # GG code: C939-37D7

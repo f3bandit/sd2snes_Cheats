@@ -79,7 +79,7 @@
   - "81DD2E24"
 # GG code: 4024-1765
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "83CC59EA"
 # GG code: 3CA9-440E
@@ -110,17 +110,17 @@
   - "7E051663"
 # GG code: N/A (WRAM cheat)
 - Name: "Max Defense"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E051263"
 # GG code: N/A (WRAM cheat)
 - Name: "Max Special"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E051463"
 # GG code: N/A (WRAM cheat)
 - Name: "Max Strength"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E051063"
 # GG code: N/A (WRAM cheat)
