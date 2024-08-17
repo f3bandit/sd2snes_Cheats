@@ -21,7 +21,7 @@
   - "7E13C101"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E18EDFF"
 # GG code: N/A (WRAM cheat)

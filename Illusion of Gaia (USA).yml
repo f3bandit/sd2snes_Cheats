@@ -86,7 +86,7 @@
   - "7E0ADE64"
 # GG code: N/A (WRAM cheat)
 - Name: "Have 200 Strength"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0ADEC8"
 # GG code: N/A (WRAM cheat)
@@ -465,7 +465,7 @@
   - "80806814"
 # GG code: F061-44DD
 - Name: "Start with all Dark Powers"
-  Enabled: true
+  Enabled: false
   Code:
   - "8080B177"
 # GG code: 5568-4D0D

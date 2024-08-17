@@ -17,12 +17,12 @@
   - "838A68AE"
 # GG code: C361-C4D3
 - Name: "Infnite Nuts Bolts"
-  Enabled: true
+  Enabled: false
   Code:
   - "AF9ABFAD"
 # GG code: C2B8-C8E3
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "AF815B80"
 # GG code: 6D69-1CEA

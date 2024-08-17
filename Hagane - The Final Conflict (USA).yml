@@ -49,7 +49,7 @@
   - "7E051404"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "0041ECAD"
 # GG code: C203-07DD
@@ -81,7 +81,7 @@
   - "7E007C09"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility vs. Enemies"
-  Enabled: true
+  Enabled: false
   Code:
   - "C0419E60"
 # GG code: 1D0B-576D

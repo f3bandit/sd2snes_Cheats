@@ -19,7 +19,7 @@
   - "00C45AAD"
 # GG code: C2A9-D46F
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "01E7B700"
 # GG code: DD38-AFA9
@@ -33,7 +33,7 @@
   - "04ACE060"
 # GG code: 1DC3-DDF7
 - Name: "Quick Level Up"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0AD600"
 # GG code: N/A (WRAM cheat)
