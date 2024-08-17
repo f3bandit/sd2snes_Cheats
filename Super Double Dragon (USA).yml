@@ -160,7 +160,7 @@
   - "7E0F2719"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "01BE85AD"
 # GG code: C286-6F05
@@ -180,7 +180,7 @@
   - "02811E60"
 # GG code: 1D6F-0766
 - Name: "One Hit Kill"
-  Enabled: true
+  Enabled: false
   Code:
   - "0286B900"
 # GG code: DD68-640B

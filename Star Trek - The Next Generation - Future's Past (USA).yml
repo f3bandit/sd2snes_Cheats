@@ -52,7 +52,7 @@
   - "849DB401"
 # GG code: DFB8-1FF7
 - Name: "Aft Torpedoes Reload Much Faster"
-  Enabled: true
+  Enabled: false
   Code:
   - "849DB401"
 # GG code: DFB8-1FF7
@@ -82,7 +82,7 @@
   - "849D2700"
 # GG code: DDB4-1F27
 - Name: "Enemy Shields Don't Regenerate"
-  Enabled: true
+  Enabled: false
   Code:
   - "849D2700"
 # GG code: DDB4-1F27
@@ -167,12 +167,12 @@
   - "849DD001"
 # GG code: DFB2-1DF7
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "0095BB24"
 # GG code: 40B8-04AF
 - Name: "Infinite Resources"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E836DFF"
 # GG code: N/A (WRAM cheat)

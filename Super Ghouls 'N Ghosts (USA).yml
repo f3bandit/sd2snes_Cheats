@@ -59,7 +59,7 @@
 # Torches A-Axe B-Upgraded Axe C-Boomerang Daggers? D-Triangular
 # Weapon
 - Name: "Hit Anywhere"
-  Enabled: true
+  Enabled: false
   Code:
   - "02FD1D60"
 # GG code: 1DEF-0708
@@ -132,11 +132,6 @@
 # properly. The devices will boot up one
 # after the other. D4 - Green Armor
 # D0 - Gold Armor
-- Name: "Infinite Credits"
-  Enabled: false
-  Code:
-  - "04968DAD"
-# GG code: C2B6-679F
 - Name: "Infinite Double Jumps"
   Enabled: false
   Code:
@@ -147,12 +142,12 @@
 # Touch The Ground If You Dont Want
 # To.
 - Name: "Infinite Double Jumps"
-  Enabled: true
+  Enabled: false
   Code:
   - "01CF7BAD"
 # GG code: C2A5-A4A5
 - Name: "Infinite Energy (You Won't Lose Your Armor)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E044A01"
 # GG code: N/A (WRAM cheat)
@@ -171,7 +166,7 @@
   - "7E02A402"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E02A403"
 # GG code: N/A (WRAM cheat)
@@ -196,13 +191,6 @@
 # address in question it had me puzzled.
 # Ah well, a little more familiar with
 # the BEQ opcode now...
-- Name: "Invincibility to Tidal Wave"
-  Enabled: false
-  Code:
-  - "019A35CF"
-# GG code: AEB7-6F01
-  - "019A4A00"
-# GG code: DDB0-6461
 - Name: "Invincible"
   Enabled: false
   Code:

@@ -296,27 +296,11 @@
   Code:
   - "80E19F0C"
 # GG code: DA3B-17AD
-- Name: "Both Players Instantly Die"
-  Enabled: false
-  Code:
-  - "C0536EE0"
-# GG code: 3D91-E76D
-# Tis funny
 - Name: "Both Players Invisible And Stuck In Their Own Corners (But Can Strike)"
   Enabled: false
   Code:
   - "C0DC72DC"
 # GG code: 2A25-7D67
-- Name: "Both Players Start with Half Health"
-  Enabled: false
-  Code:
-  - "C0536E58"
-# GG code: 9691-E76D
-- Name: "Both Players Start with Half Health"
-  Enabled: false
-  Code:
-  - "C0536E58"
-# GG code: 9691-E76D
 - Name: "Bug Fix for Turbo M. Bison's Light Psycho Crusher (makes Light Psycho Crusher chip twice on block)"
   Enabled: false
   Code:
@@ -452,12 +436,6 @@
   Code:
   - "C183AF77"
 # GG code: 556C-E7A0
-- Name: "Deadly Bite"
-  Enabled: false
-  Code:
-  - "C1EA110C"
-# GG code: DA3F-8D01
-# Does huge damage
 - Name: "Destroy Each Part Of Object in One Hit in Bonus Rounds"
   Enabled: false
   Code:
@@ -465,17 +443,17 @@
 # GG code: CB9A-ED67
   - "C05FC300"
 # GG code: DD9A-EDA7
-- Name: "Dhalsim easy Teleport "
+- Name: "Dhalsim quick escape"
   Enabled: false
   Code:
-  - "80E235C0"
-# GG code: AD37-CF0D
-  - "C38F7E54"
-# GG code: 9065-E76E
-  - "C38F7F01"
-# GG code: DF65-E7AE
-# Press down and little kick to Teleport
-# 
+  - "80E2350E"
+# GG code: D337-CF0D
+  - "C38F7E08"
+# GG code: D665-E76E
+  - "C38F7F04"
+# GG code: D065-E7AE
+# Press down and little kick to move
+# to other side of screen 
 - Name: "Dhalsim's Throws do the same damage as most other Characters' Throws"
   Enabled: false
   Code:
@@ -500,11 +478,6 @@
 # GG code: 7934-7401
 # Functionality should be very similar to the
 # original code.
-- Name: "Double Head Bite"
-  Enabled: false
-  Code:
-  - "C15E5EFF"
-# GG code: EE99-8765
 - Name: "E. Honda's hard Sumo Head Butts are faster"
   Enabled: false
   Code:
@@ -794,20 +767,6 @@
   Code:
   - "7E071701"
 # GG code: N/A (WRAM cheat)
-- Name: "Infinite Bite (Can't Escape)"
-  Enabled: false
-  Code:
-  - "C15E6CA5"
-# GG code: C991-87D5
-  - "C1ED7F80"
-# GG code: 6D35-57A5
-# No clue if this affects any other
-# move
-- Name: "Infinite Head Bite (Can Escape)"
-  Enabled: false
-  Code:
-  - "C15E6CA5"
-# GG code: C991-87D5
 - Name: "Infinite Health P1"
   Enabled: false
   Code:
@@ -1322,13 +1281,6 @@
   Code:
   - "C0516E00"
 # GG code: DD91-576D
-- Name: "Player 2 Has No Health"
-  Enabled: false
-  Code:
-  - "C053759C"
-# GG code: BA95-EF0D
-  - "C053789C"
-# GG code: BA95-E4DD
 - Name: "Player 2 Has Turbofire Controls"
   Enabled: false
   Code:
@@ -1525,17 +1477,6 @@
   Code:
   - "C1EC29A3"
 # GG code: C734-7405
-- Name: "Throws Do No Damage"
-  Enabled: false
-  Code:
-  - "C1EB88AD"
-# GG code: C236-E4D1
-  - "C1EB8BAD"
-# GG code: C236-E4A1
-  - "C1200BAD"
-# GG code: C24D-74A0
-# Have not tested every single character, or
-# if there are special throws.
 - Name: "Timer Code #1"
   Enabled: false
   Code:

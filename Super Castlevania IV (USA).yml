@@ -7,12 +7,12 @@
   - "00DE8903"
 # GG code: D726-6407
 - Name: "Always Have Double Trouble Power Up"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E009001"
 # GG code: N/A (WRAM cheat)
 - Name: "Always Have Fully Powered Whip"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E009203"
 # GG code: N/A (WRAM cheat)
@@ -111,7 +111,7 @@
   - "7E009202"
 # GG code: N/A (WRAM cheat)
 - Name: "Have Maxed Out Hearts with each Heart pickup"
-  Enabled: true
+  Enabled: false
   Code:
   - "00DE9100"
 # GG code: DD2B-6D07
@@ -319,23 +319,17 @@
 # GG code: N/A (WRAM cheat)
   - "7E007975"
 # GG code: N/A (WRAM cheat)
-- Name: "No Death From Being Crushed By Moving Platforms"
+- Name: "No death by being crushed by moving platforms"
   Enabled: false
   Code:
-  - "00A20D00"
-# GG code: DDCD-670D
-- Name: "No Death From Being Crushed In Stage 4-2"
+- Name: "No death falling in pit"
   Enabled: false
   Code:
-  - "04E99A00"
-# GG code: DD3B-04B4
-- Name: "No Death From Falling Down A Pit"
-  Enabled: false
-  Code:
-  - "02806980"
-# GG code: 6D61-D406
 # Use Jump in mid-air code to jump
 # out of pit.
+- Name: "No death in 4-2 in rotating room"
+  Enabled: false
+  Code:
 - Name: "No Music &amp; Sound Effects"
   Enabled: false
   Code:
@@ -397,11 +391,6 @@
 # game starts you on stage 1, turn
 # code off and die to start on
 # the level you want.
-- Name: "Start On The Second Quest"
-  Enabled: false
-  Code:
-  - "00D6F210"
-# GG code: FD2E-6D6F
 - Name: "Start with 1 life [first game only]"
   Enabled: false
   Code:
@@ -469,11 +458,6 @@
   Code:
   - "00A97810"
 # GG code: FDC5-04D4
-- Name: "The Hands In Stage 2-1 Can't Grab Onto Your Leg"
-  Enabled: false
-  Code:
-  - "03D94000"
-# GG code: DD20-0DD3
 - Name: "This Gives You A Triple Shot Even If You Don't Have A Weapon"
   Enabled: false
   Code:

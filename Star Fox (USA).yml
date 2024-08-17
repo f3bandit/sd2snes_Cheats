@@ -63,12 +63,12 @@
 # Need To take a break? Turn this
 # code on and then come back later!
 - Name: "Full Fire Power"
-  Enabled: true
+  Enabled: false
   Code:
   - "0BE0E4D0"
 # GG code: 2D33-DF4A
 - Name: "Have Double Lasers"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E14D901"
 # GG code: N/A (WRAM cheat)
@@ -260,7 +260,7 @@
 # The rest of the digits graphically glitch
 # the game.
 - Name: "Never Get Hit"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E035801"
 # GG code: N/A (WRAM cheat)

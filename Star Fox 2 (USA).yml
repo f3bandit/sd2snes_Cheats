@@ -31,7 +31,7 @@
 # a difficulty level and the menu is
 # presented.
 - Name: "Infinite Items"
-  Enabled: true
+  Enabled: false
   Code:
   - "7EB22C09"
 # GG code: N/A (WRAM cheat)
@@ -67,7 +67,7 @@
   - "04B99FB9"
 # GG code: 8B8B-0724
 - Name: "Invincible Against Enemies"
-  Enabled: true
+  Enabled: false
   Code:
   - "0691B9D0"
 # GG code: 2DB8-0496
