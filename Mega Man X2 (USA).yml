@@ -46,11 +46,6 @@
   Code:
   - "04BE4918"
 # GG code: F680-6497
-- Name: "Air Dash 4x Longer"
-  Enabled: false
-  Code:
-  - "089D2640"
-# GG code: 0DB4-0FC7
 - Name: "All Bosses and Most Enemies Die With One Shot"
   Enabled: false
   Code:
@@ -222,8 +217,8 @@
 - Name: "Dash Longer"
   Enabled: false
   Code:
-  - "089CA85A"
-# GG code: 9CBC-D447
+  - "0898ED5F"
+# GG code: 9EB3-D714
 - Name: "Enemies Always Drop Items"
   Enabled: false
   Code:
@@ -362,7 +357,7 @@
   - "7E1FD780"
 # GG code: N/A (WRAM cheat)
 - Name: "Have Zero's Head, Body, and Legs"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1FD680"
 # GG code: N/A (WRAM cheat)
@@ -430,7 +425,7 @@
 # GG code: N/A (WRAM cheat)
 # Infinite Maximum Health
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "0099AFAD"
 # GG code: C2BC-07A4
@@ -456,12 +451,12 @@
   - "00C2F2AD"
 # GG code: C2AE-6D6D
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "08944008"
 # GG code: D6B0-DD4F
 - Name: "Invincibility against Spikes"
-  Enabled: true
+  Enabled: false
   Code:
   - "08D54C80"
 # GG code: 6D20-074F

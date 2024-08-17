@@ -68,17 +68,17 @@
   - "7E132005"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Gun Ammo On Pickup"
-  Enabled: true
+  Enabled: false
   Code:
   - "818DA2E4"
 # GG code: 306C-1D65
 - Name: "Infinite Health For Mech"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E015003"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Health For The Human"
-  Enabled: true
+  Enabled: false
   Code:
   - "81C352A5"
 # GG code: C9A9-3D60

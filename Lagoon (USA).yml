@@ -453,17 +453,17 @@
   - "02DA0208"
 # GG code: D62D-6D6C
 - Name: "Start with 22,116 gold"
-  Enabled: true
+  Enabled: false
   Code:
   - "02DA0256"
 # GG code: 912D-6D6C
 - Name: "Start With 255 Defense"
-  Enabled: true
+  Enabled: false
   Code:
   - "02D9FBFF"
 # GG code: EE2E-04AC
 - Name: "Start With 255 Strength"
-  Enabled: true
+  Enabled: false
   Code:
   - "02D9ECFF"
 # GG code: EE23-07DC
@@ -483,7 +483,7 @@
   - "02DA0202"
 # GG code: D42D-6D6C
 - Name: "Start With 65,380 GP"
-  Enabled: true
+  Enabled: false
   Code:
   - "02DA02FF"
 # GG code: EE2D-6D6C

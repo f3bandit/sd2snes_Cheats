@@ -7,7 +7,7 @@
   - "7E029E03"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E028C03"
 # GG code: N/A (WRAM cheat)
@@ -27,7 +27,7 @@
   - "7E029EFF"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E029C00"
 # GG code: N/A (WRAM cheat)

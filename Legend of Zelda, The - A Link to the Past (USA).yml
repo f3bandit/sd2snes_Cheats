@@ -99,13 +99,6 @@
 # This code is needed in the beginning
 # of the game, before you&#039;ve gotten a
 # sword, if you want to equip one.
-- Name: "Ability to swing, if you have no sword"
-  Enabled: false
-  Code:
-  - "0781CE00"
-# GG code: DD6A-07BA
-# Combine with owning a sword, to have
-# any sword you want at the start!
 - Name: "Absolute No Collisions With World Entities. Essentially Can Be Considered Another Godmode.. (However, You Can Walk On Water And Through Barriers With This.)"
   Enabled: false
   Code:
@@ -589,15 +582,6 @@
   Code:
   - "0981321A"
 # GG code: FC67-0DC0
-- Name: "Dungeon Blocks disappear after pushing"
-  Enabled: false
-  Code:
-  - "01D7D5A2"
-# GG code: C422-AF09
-# Useful if a block, blocks your path.
-# Give yourself the red cane, if you
-# need a block on a switch to
-# open a door!
 - Name: "East Palace"
   Enabled: false
   Code:
@@ -1607,15 +1591,6 @@
 # GG code: AEC7-6D2E
   - "07AEB6CF"
 # GG code: AEC8-6FBE
-- Name: "Infinite Magic (even with no magic)"
-  Enabled: false
-  Code:
-  - "07B0C000"
-# GG code: DD8A-DDFA
-  - "07B0C700"
-# GG code: DD8A-DF2A
-# Your magic will decrease, but you can
-# always use magic!
 - Name: "Infinite Magic Energy."
   Enabled: false
   Code:
@@ -1663,19 +1638,6 @@
 # GG code: DDC0-6781
   - "0DAA508E"
 # GG code: 63C9-6D71
-- Name: "Invincible (but get knocked)"
-  Enabled: false
-  Code:
-  - "07809480"
-# GG code: 6D6B-DFFA
-# No hurt sound or damage loss.
-- Name: "Invincible (no blinking)"
-  Enabled: false
-  Code:
-  - "07808700"
-# GG code: DD66-DF2A
-# It shows a knockback sprite for 1
-# frame, but  that's it!
 - Name: "Invincible / Walk Thru Enemies"
   Enabled: false
   Code:
@@ -1731,17 +1693,6 @@
 # GG code: 106A-A422
 # can walk on water in the overworld
 # and dungeons that have deep water.
-- Name: "Key Doors do not need Keys to Open (or big key)"
-  Enabled: false
-  Code:
-  - "01CF6100"
-# GG code: DDA1-AD05
-  - "01CF2980"
-# GG code: 6DA4-A405
-  - "01EB9480"
-# GG code: 6D3B-AFD1
-# Tested on regular key doors, big key
-# doors, and jail lock!
 - Name: "Lamp"
   Enabled: false
   Code:
@@ -2415,17 +2366,6 @@
 # GG code: N/A (WRAM cheat)
 # Or use 01 instead of the last
 # 2 numbers to Float.
-- Name: "Some Doors Open On Touch (or walk through)"
-  Enabled: false
-  Code:
-  - "01CF0E00"
-# GG code: DDAD-A765
-  - "01CF1280"
-# GG code: 6DAF-AD65
-  - "01CF6100"
-# GG code: DDA1-AD05
-# Avoid touching doors that shut, otherwise it
-# can softlock!
 - Name: "Some Enemies Are Pushed To The Right"
   Enabled: false
   Code:
@@ -2905,7 +2845,7 @@
   - "7E02E001"
 # GG code: N/A (WRAM cheat)
 - Name: "You Can't Be Hurt!"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E031F10"
 # GG code: N/A (WRAM cheat)

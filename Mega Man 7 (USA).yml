@@ -339,12 +339,6 @@
 # tanks and as long as code is
 # on its infinite,it's not like you will
 # use that many anyways.
-- Name: "Higher Jump"
-  Enabled: false
-  Code:
-  - "C10CE230"
-# GG code: 7DD3-7D65
-# Jump higher then normal!
 - Name: "Hit Anywhere"
   Enabled: false
   Code:
@@ -771,12 +765,6 @@
   Code:
   - "C30AF1AD"
 # GG code: C2DE-8D03
-- Name: "No death from Pit"
-  Enabled: false
-  Code:
-  - "7E0C0902"
-# GG code: N/A (WRAM cheat)
-# You'll loop back to the top.
 - Name: "No death jumping out of a pit with "perfect invincibility" on"
   Enabled: false
   Code:
@@ -792,7 +780,7 @@
   - "C304F424"
 # GG code: 40DE-7FD2
 - Name: "Perfect Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "C1326BA5"
 # GG code: C971-84A0
@@ -959,18 +947,6 @@
   Code:
   - "7E0C1C10"
 # GG code: N/A (WRAM cheat)
-- Name: "Super Jump"
-  Enabled: false
-  Code:
-  - "C10CE225"
-# GG code: 49D3-7D65
-# You jump quite high!
-- Name: "Super Jump(+)"
-  Enabled: false
-  Code:
-  - "C10CE220"
-# GG code: 4DD3-7D65
-# Incase if Super Jump wasn't high enough!
 - Name: "Take Less Damage"
   Enabled: false
   Code:
@@ -986,7 +962,7 @@
   - "C3059101"
 # GG code: DFDB-5D02
 - Name: "Unlimited Weapon Energy"
-  Enabled: true
+  Enabled: false
   Code:
   - "C12FD91F"
 # GG code: FE42-E405

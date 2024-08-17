@@ -20,14 +20,14 @@
   - "03A7E780"
 # GG code: 6DC3-AFA2
 - Name: "Always Super Shot"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0A6702"
 # GG code: N/A (WRAM cheat)
 # This eats up your Hyper.C Energy, but
 # always works
 - Name: "Armor Suit Infinite Life"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0CEF20"
 # GG code: N/A (WRAM cheat)
@@ -759,7 +759,7 @@
 # for Cutter/missile weapons that otherwise boomerang to
 # attain longer reach.
 - Name: "Rapid Full Powered Shot"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0A3006"
 # GG code: N/A (WRAM cheat)
@@ -892,7 +892,7 @@
   - "0099B109"
 # GG code: DBB8-0D04
 - Name: "Start With Max Health Bar"
-  Enabled: true
+  Enabled: false
   Code:
   - "04DBC014"
 # GG code: F02A-ADF4
@@ -915,7 +915,7 @@
   - "04CE03EA"
 # GG code: 3CAD-6D27
 - Name: "Take Much Less Damage"
-  Enabled: true
+  Enabled: false
   Code:
   - "04CE01E9"
 # GG code: 3BAD-6D97

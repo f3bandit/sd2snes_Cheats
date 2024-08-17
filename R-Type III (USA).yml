@@ -24,7 +24,7 @@
 # 3 FD - Level 4 F0 -
 # Level 5
 - Name: "Hit Anywhere Both Players"
-  Enabled: true
+  Enabled: false
   Code:
   - "B0BDFF24"
 # GG code: 408E-1EA7
@@ -42,7 +42,7 @@
   - "7EBDFF24"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "81829CAD"
 # GG code: C26B-C7D0
@@ -57,12 +57,12 @@
   - "7E03B709"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "B083D800"
 # GG code: DD62-33DD
 - Name: "Quick Charge For Super Shot"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E03DCDA"
 # GG code: N/A (WRAM cheat)

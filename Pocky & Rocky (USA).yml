@@ -96,7 +96,7 @@
   - "04EE9702"
 # GG code: D43B-6F27
 - Name: "Enable Level Select"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E016410"
 # GG code: N/A (WRAM cheat)
@@ -124,7 +124,7 @@
   - "04F1A046"
 # GG code: 01EC-0DFD
 - Name: "Infinite Energy"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E006808"
 # GG code: N/A (WRAM cheat)
@@ -154,7 +154,7 @@
   - "04EFFDA5"
 # GG code: C93E-A797
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E006A03"
 # GG code: N/A (WRAM cheat)
@@ -193,11 +193,6 @@
   Code:
   - "7E006602"
 # GG code: N/A (WRAM cheat)
-- Name: "Infinite Special"
-  Enabled: false
-  Code:
-  - "01D8AFA5"
-# GG code: C92C-D7A1
 - Name: "Infinite Time"
   Enabled: false
   Code:

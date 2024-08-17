@@ -1192,7 +1192,7 @@
   - "7E169A98"
 # GG code: N/A (WRAM cheat)
 - Name: "Max EXP"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E16937F"
 # GG code: N/A (WRAM cheat)
@@ -1224,7 +1224,7 @@
   - "7E170B03"
 # GG code: N/A (WRAM cheat)
 - Name: "Max INT"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E170CE7"
 # GG code: N/A (WRAM cheat)
@@ -1280,7 +1280,7 @@
   - "7E171303"
 # GG code: N/A (WRAM cheat)
 - Name: "Max STR"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1714E7"
 # GG code: N/A (WRAM cheat)
@@ -1350,7 +1350,7 @@
   - "7E149E00"
 # GG code: N/A (WRAM cheat)
 - Name: "No Random Battles"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E054300"
 # GG code: N/A (WRAM cheat)

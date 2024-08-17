@@ -6,13 +6,6 @@
   Code:
   - "7E16F200"
 # GG code: N/A (WRAM cheat)
-- Name: "Disable Character's Attack Sound Effect"
-  Enabled: false
-  Code:
-  - "019EFC00"
-# GG code: DDBE-67D5
-  - "01805D00"
-# GG code: DD69-D700
 - Name: "Foxy Doesn't Move / Volta Doesn't Attack"
   Enabled: false
   Code:
@@ -55,7 +48,7 @@
   - "7E19F205"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Keys"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E05B299"
 # GG code: N/A (WRAM cheat)
@@ -65,7 +58,7 @@
   - "7E05B263"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite Lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E19F403"
 # GG code: N/A (WRAM cheat)
@@ -85,7 +78,7 @@
   - "7E706476"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "03973160"
 # GG code: 1DB7-AD02

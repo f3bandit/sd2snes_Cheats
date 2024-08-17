@@ -4002,7 +4002,7 @@
 # Cannot save data. (999 everything except guts,
 # [GUTS 199])
 - Name: "Load Or Start New Game With 167 For Stats"
-  Enabled: true
+  Enabled: false
   Code:
   - "81F95FFE"
 # GG code: E3E9-17A1

@@ -306,6 +306,21 @@
 # GG code: DC33-1D04
   - "80A3240A"
 # GG code: DCC4-3FDD
+- Name: "Don't Minus Karma For Spells/Skills"
+  Enabled: false
+  Code:
+  - "80F010AF"
+# GG code: CEEF-4DDD
+- Name: "Don't Minus Spell Points"
+  Enabled: false
+  Code:
+  - "808B53BF"
+# GG code: 8E69-3DA4
+- Name: "Don't Subtract Karma For Shooting People (Ignore Message Saying You Lost Karma)"
+  Enabled: false
+  Code:
+  - "80880FAF"
+# GG code: CE6D-47A4
 - Name: "Don't subtract karma for shooting people [ignore message saying you lost karma]"
   Enabled: false
   Code:
@@ -323,16 +338,6 @@
 # GG code: 8E69-3DA4
 # Casting spells you aren&#039;t allowed to raises
 # your spell points.
-- Name: "Enable Debug Room (Note)"
-  Enabled: false
-  Code:
-  - "7E3BCEFF"
-# GG code: N/A (WRAM cheat)
-  - "7E3BCFFF"
-# GG code: N/A (WRAM cheat)
-# This will turn the Match Box item
-# into the Debug room entrance. Just choose
-# the Match Box item then choose Open.
 - Name: "Everything is free"
   Enabled: false
   Code:
@@ -340,6 +345,11 @@
 # GG code: 6DAE-4FA7
   - "80CCF811"
 # GG code: FFAE-44D7
+- Name: "Everything Is Free"
+  Enabled: false
+  Code:
+  - "80CCF780"
+# GG code: 6DAE-4FA7
 - Name: "Freeze spell lasts much longer."
   Enabled: false
   Code:
@@ -441,11 +451,11 @@
 - Name: "Jake Has All The Spells"
   Enabled: false
   Code:
-  - "7E134900"
+  - "7E13490A"
 # GG code: N/A (WRAM cheat)
 # This code may only work when starting
 # a new game.  Jake has all
-# spells, but you'll have to rest before
+# spells, but you&#039;ll have to rest before
 # you can cast them.  Just replace
 # the ** to determine what level the
 # spells will be on.
@@ -852,40 +862,35 @@
   - "9CFF5E03"
 # GG code: D7E9-3587
 - Name: "Max Armor"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E3C3020"
 # GG code: N/A (WRAM cheat)
 - Name: "Mercenary #1 will never leave"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E2DF828"
 # GG code: N/A (WRAM cheat)
 # For hired Shadowrunners.
 - Name: "Mercenary #2 will never leave"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E2DFC14"
 # GG code: N/A (WRAM cheat)
 # For hired Shadowrunners.
 - Name: "Mercenary #3 will never leave"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E2DFE1E"
 # GG code: N/A (WRAM cheat)
 # For hired Shadowrunners.
-- Name: "Morgue Office door warps you to Debug Room. "
-  Enabled: false
-  Code:
-  - "9984F4D2"
-# GG code: 246E-4949
 - Name: "Over 100 Karma"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E3C0D04"
 # GG code: N/A (WRAM cheat)
 - Name: "Pick Up Money For Maximum Money"
-  Enabled: true
+  Enabled: false
   Code:
   - "80CCB30F"
 # GG code: DEA8-4DA7
@@ -1174,12 +1179,6 @@
   Code:
   - "9CE07814"
 # GG code: F035-417D
-- Name: "Snipers and Assassins Do Not Shoot At You"
-  Enabled: false
-  Code:
-  - "80F84FF0"
-# GG code: EDE0-47A4
-# Most enemies do not attack you
 - Name: "Start with 100 stamina"
   Enabled: false
   Code:

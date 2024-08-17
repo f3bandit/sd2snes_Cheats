@@ -115,7 +115,7 @@
   - "80DA1FFF"
 # GG code: EE2F-C7A4
 - Name: "Invincibility"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E176F01"
 # GG code: N/A (WRAM cheat)
@@ -127,7 +127,7 @@
   - "84FF0AEA"
 # GG code: 3CED-34B7
 - Name: "Never run out of any ammo"
-  Enabled: true
+  Enabled: false
   Code:
   - "80A809EA"
 # GG code: 3CCD-4404
@@ -157,7 +157,7 @@
   - "80E2FBFA"
 # GG code: EC3E-C4AD
 - Name: "Start with 5,170,000 C-bills [Start of game only]"
-  Enabled: true
+  Enabled: false
   Code:
   - "80E2FC14"
 # GG code: F03E-C7DD

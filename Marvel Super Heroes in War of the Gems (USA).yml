@@ -228,7 +228,7 @@
 # Turn this code off after the water
 # parts of levels.
 - Name: "Infinite Equipment, All Gems Selectable"
-  Enabled: true
+  Enabled: false
   Code:
   - "C0B87A1C"
 # GG code: FA85-7464
@@ -245,7 +245,7 @@
 # only selectable temporarily, if you haven&#039;t collected
 # them yet.
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "C0085895"
 # GG code: B9D9-74D4

@@ -25,7 +25,7 @@
   - "7E00A904"
 # GG code: N/A (WRAM cheat)
 - Name: "Auto Kill Enemies that get close to you, even bosses"
-  Enabled: true
+  Enabled: false
   Code:
   - "849F9280"
 # GG code: 6DBB-3DB7
@@ -190,7 +190,7 @@
 # GG code: 0EB1-CDCD
 # Sword.
 - Name: "Hit Anywhere"
-  Enabled: true
+  Enabled: false
   Code:
   - "88932B80"
 # GG code: 6DB4-343D
@@ -198,7 +198,7 @@
 # GG code: 73B4-374D
 # Secondary weapons
 - Name: "Hit Anywhere (Secondary Weapons)"
-  Enabled: true
+  Enabled: false
   Code:
   - "8CD1A800"
 # GG code: DD2C-147D
@@ -256,11 +256,6 @@
   Code:
   - "7E008010"
 # GG code: N/A (WRAM cheat)
-- Name: "infinite health"
-  Enabled: false
-  Code:
-  - "8CD2C600"
-# GG code: DD2A-CF8D
 - Name: "Infinite Lives"
   Enabled: false
   Code:
@@ -306,11 +301,6 @@
   Code:
   - "7E00C409"
 # GG code: N/A (WRAM cheat)
-- Name: "infinite lives"
-  Enabled: false
-  Code:
-  - "8C8E51A5"
-# GG code: C969-CD57
 - Name: "Infinite Ninja Power"
   Enabled: false
   Code:
@@ -321,14 +311,6 @@
   Code:
   - "7E006432"
 # GG code: N/A (WRAM cheat)
-- Name: "infinite symbol power"
-  Enabled: false
-  Code:
-  - "8CCE59A5"
-# GG code: C9A9-C457
-  - "8CCE3DA5"
-# GG code: C9A7-C757
-# power for ninja stars etc doesn't deplete
 - Name: "Infinite time"
   Enabled: false
   Code:
@@ -764,11 +746,6 @@
   Code:
   - "86AFB096"
 # GG code: B1C8-3DF8
-- Name: "stop timer"
-  Enabled: false
-  Code:
-  - "8CD53FA5"
-# GG code: C927-17EF
 - Name: "Throwing stars don't use energy[ignore counter]"
   Enabled: false
   Code:

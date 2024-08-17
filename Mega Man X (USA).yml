@@ -174,12 +174,6 @@
   Code:
   - "7E1F88FF"
 # GG code: N/A (WRAM cheat)
-- Name: "Hadouken Capsule Available Without Requirements Met"
-  Enabled: false
-  Code:
-  - "7E1F7E05"
-# GG code: N/A (WRAM cheat)
-# Turn Code Off before entering Capsule
 - Name: "Have All Equipment"
   Enabled: false
   Code:
@@ -270,23 +264,23 @@
 # If used with &quot;Have Hadoken&quot;, you can
 # fire normally for a Hadoken Attack
 - Name: "Infinite Health"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0BCF10"
 # GG code: N/A (WRAM cheat)
 - Name: "Infinite lives"
-  Enabled: true
+  Enabled: false
   Code:
   - "809B59AD"
 # GG code: C2B9-3404
 - Name: "Infinite Repeat Shot (All Weapons)"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E122801"
 # GG code: N/A (WRAM cheat)
 # Must while shot enable codes
 - Name: "Infinite weapons once you have them"
-  Enabled: true
+  Enabled: false
   Code:
   - "8194EEA5"
 # GG code: C9B3-4769

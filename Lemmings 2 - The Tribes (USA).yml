@@ -65,7 +65,7 @@
   - "7E0EAB00"
 # GG code: N/A (WRAM cheat)
 - Name: "Automatically Beat Levels"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E299B40"
 # GG code: N/A (WRAM cheat)

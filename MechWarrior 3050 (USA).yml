@@ -47,12 +47,12 @@
   - "D64C4DFA"
 # GG code: EC00-7598
 - Name: "Almost infinite ammo"
-  Enabled: true
+  Enabled: false
   Code:
   - "C05177AD"
 # GG code: C295-5FAD
 - Name: "Almost invincible [Switch off to kill some enemies]"
-  Enabled: true
+  Enabled: false
   Code:
   - "C053F260"
 # GG code: 1D9E-ED6D

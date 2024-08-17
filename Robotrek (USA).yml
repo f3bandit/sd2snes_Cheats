@@ -7,7 +7,7 @@
   - "7E068AFF"
 # GG code: N/A (WRAM cheat)
 - Name: "99 Charge"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E06A863"
 # GG code: N/A (WRAM cheat)
@@ -32,12 +32,12 @@
   - "7E069E63"
 # GG code: N/A (WRAM cheat)
 - Name: "99 Guard"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E06A063"
 # GG code: N/A (WRAM cheat)
 - Name: "99 Power"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E069663"
 # GG code: N/A (WRAM cheat)
@@ -57,7 +57,7 @@
   - "7E06A263"
 # GG code: N/A (WRAM cheat)
 - Name: "99 Speed"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E06A463"
 # GG code: N/A (WRAM cheat)
@@ -67,7 +67,7 @@
   - "7E06A663"
 # GG code: N/A (WRAM cheat)
 - Name: "999 Maximum HP"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E0690E7"
 # GG code: N/A (WRAM cheat)
@@ -114,7 +114,7 @@
   - "7E068663"
 # GG code: N/A (WRAM cheat)
 - Name: "Buy Any Item To Get A Minimum of 90000 GP"
-  Enabled: true
+  Enabled: false
   Code:
   - "88EEA8A9"
 # GG code: CB3C-C447

@@ -59,24 +59,24 @@
 # the tank the game won&#039;t be able
 # to continue.
 - Name: "Infinite CDs"
-  Enabled: true
+  Enabled: false
   Code:
   - "80C040A9"
 # GG code: CBA0-4DDD
 - Name: "Infinite energy"
-  Enabled: true
+  Enabled: false
   Code:
   - "82A9F7AD"
 # GG code: C2CE-1FAC
 - Name: "Laser Discs"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E008B13"
 # GG code: N/A (WRAM cheat)
   - "7E023D0D"
 # GG code: N/A (WRAM cheat)
 - Name: "Silver CDs worth 100"
-  Enabled: true
+  Enabled: false
   Code:
   - "838004A0"
 # GG code: CD6D-4FDA
@@ -124,7 +124,7 @@
   - "8297890F"
 # GG code: DEB6-340B
 - Name: "Super Gun"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E023403"
 # GG code: N/A (WRAM cheat)

@@ -89,7 +89,7 @@
   - "7E1B760C"
 # GG code: N/A (WRAM cheat)
 - Name: "Gems set to 999,999 every time a gem is picked up"
-  Enabled: true
+  Enabled: false
   Code:
   - "04F6BA00"
 # GG code: DDE8-64BF
@@ -121,14 +121,14 @@
   - "008AD400"
 # GG code: DD62-6FD4
 - Name: "Infinite &amp; max HP"
-  Enabled: true
+  Enabled: false
   Code:
   - "7E1B8864"
 # GG code: N/A (WRAM cheat)
   - "7E1B8A64"
 # GG code: N/A (WRAM cheat)
 - Name: "Invincible"
-  Enabled: true
+  Enabled: false
   Code:
   - "008EF3AD"
 # GG code: C26E-6DA7
